@@ -32,9 +32,8 @@ api-testing-flask/
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/api-testing-flask.git
+    git clone https://github.com/DeepPyLab/api-testing-flask.git
     ```
-    Replace `yourusername` with your GitHub username.
 
 2. **Navigate to the Project Directory**:
     ```bash
